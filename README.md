@@ -1,1 +1,0 @@
-# JsonPlaceholder-Api--TypeScript
